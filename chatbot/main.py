@@ -3,7 +3,9 @@ from pydantic import BaseModel
 from transformers import pipeline
 from .utils import analyze_sentiment
 import json
+import nltk
 
+nltk.download('vader_lexicon')
 # Initialize FastAPI app
 app = FastAPI()
 
