@@ -5,3 +5,4 @@ torch==1.13.1
 tokenizers==0.13.2
 pydantic==1.10.2
 python-dotenv==0.21.1
+nltk
