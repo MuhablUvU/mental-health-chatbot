@@ -14,5 +14,5 @@ A chatbot designed to provide mental health support by using NLP models and sent
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YourUsername/mental-health-chatbot.git
+   git clone https://github.com/MuhablUvU/mental-health-chatbot.git
    cd mental-health-chatbot
